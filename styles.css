@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+.page {
+    display: grid;
+    grid-template-columns: repeat(12);
+}
+
+h1 {
+    color: rebeccapurple;
+}
